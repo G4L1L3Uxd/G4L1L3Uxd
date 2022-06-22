@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @G4L1L3Uxd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-G4L1L3Uxd/G4L1L3Uxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi, eu sou @G4L1L3Uxd 17 Anos                           
+- 👀 Estou interessado em: Guerras, Armas, tanks, Aeronaves e sonho em ser General
+- 🌱 Estou aprendendo: Programação na aula de aula
+- 💞️ Estou procurando: Métodos de aprimoramento profissional
+- 📫 Como chegar até mim: Fique longe de mim seu idiota
